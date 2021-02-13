@@ -1,0 +1,37 @@
+{
+ "name": "gLAd",
+ "solWallet": "EFVf49M5FPdUpHp9EA6QgTwZwKDTsJyWUKKES2gV984Q",
+ "stakes":
+  [
+   {"stakePubkey": "o2U8oiYnAzr3XxALkn6WaRaUmYDHxGfeiAocBcJ8W5x"},
+   {"stakePubkey": "7fWBNdSDaC2hz6NqzxQMvqn9DxN7diusvg7f8zmu8o4c"},
+   {"stakePubkey": "63hW2nyAng9FujbCK6hashcS1B7rrapFGac9GWxDuGpr"},
+   {"stakePubkey": "DHHna22bUj14fb8c6nX9SbvNysBKM4kEN2x1iyzjZdTK"}
+  ]
+}
+{
+ "name": "Sarmya",
+ "solWallet": "EiPCz9mVLRpWx7VLPbFVRANNxbxYrwzAS7F7yBVeCNnp",
+ "stakes":
+  [
+   {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
+   {"stakePubkey": "HVYVJf2rZVrLpWdDG9srYQMDFJxHnxasy583U66g8CET"}
+  ]
+}
+{
+ "name": "nikiUL",
+ "solWallet": "CJJLGraaPG4Zh386LbDa9m3J4wV6AG8e99QxYaXR77F8",
+ "stakes":
+  [
+   {"stakePubkey": "68zqA6eXfgtE5mUPVfgRgnEmocwBenzVnquvfYDb86au"},
+   {"stakePubkey": "9DNWAz6BkBwFeiLE4p3XwrxvCNKenR67MWtYi5s3oyWM"}
+  ]
+}
+{
+ "name": "Munch",
+ "solWallet": "EfGgAZANEaRa78ewWDAfyp9oetp1jFzmU6RVTDzyughd",
+ "stakes":
+  [
+   {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"}
+  ]
+}
