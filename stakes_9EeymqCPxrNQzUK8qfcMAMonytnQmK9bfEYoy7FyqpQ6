@@ -1,6 +1,7 @@
 {
  "name": "gLAd",
- "solWallet": "EFVf49M5FPdUpHp9EA6QgTwZwKDTsJyWUKKES2gV984Q",
+ #"solWallet": "EFVf49M5FPdUpHp9EA6QgTwZwKDTsJyWUKKES2gV984Q",
+ "solWallet": "BGoLiArKcwXQ8AzecfcXSB2aPb82XrTmWr2jtZTm73ps",
  "stakes":
   [
    {"stakePubkey": "o2U8oiYnAzr3XxALkn6WaRaUmYDHxGfeiAocBcJ8W5x"},
@@ -11,7 +12,8 @@
 }
 {
  "name": "Sarmya",
- "solWallet": "EiPCz9mVLRpWx7VLPbFVRANNxbxYrwzAS7F7yBVeCNnp",
+ #"solWallet": "EiPCz9mVLRpWx7VLPbFVRANNxbxYrwzAS7F7yBVeCNnp",
+ "solWallet": "BGoLiArKcwXQ8AzecfcXSB2aPb82XrTmWr2jtZTm73ps",
  "stakes":
   [
    {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
@@ -20,8 +22,9 @@
 }
 {
  "name": "nikiUL",
- "solWallet": "CJJLGraaPG4Zh386LbDa9m3J4wV6AG8e99QxYaXR77F8",
- "stakes":
+ #"solWallet": "CJJLGraaPG4Zh386LbDa9m3J4wV6AG8e99QxYaXR77F8",
+ "solWallet": "BGoLiArKcwXQ8AzecfcXSB2aPb82XrTmWr2jtZTm73ps",
+  "stakes":
   [
    {"stakePubkey": "68zqA6eXfgtE5mUPVfgRgnEmocwBenzVnquvfYDb86au"},
    {"stakePubkey": "9DNWAz6BkBwFeiLE4p3XwrxvCNKenR67MWtYi5s3oyWM"}
