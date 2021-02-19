@@ -11,7 +11,7 @@
 }
 {
  "name": "Sarmya",
- "solWallet": "BGoLiArKcwXQ8AzecfcXSB2aPb82XrTmWr2jtZTm73ps",
+ "solWallet": "EiPCz9mVLRpWx7VLPbFVRANNxbxYrwzAS7F7yBVeCNnp",
  "stakes":
   [
    {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
@@ -33,5 +33,23 @@
  "stakes":
   [
    {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"}
+  ]
+}
+{
+ "name": "Legiojuve",
+ "solWallet": "CfE5w6vRynFqBqujpHqTzrNhiuVCbzvrPbZJBuZdreNL",
+ "stakes":
+  [
+   {"stakePubkey": "AX7Vu5KjKyjeZFa4y2LFNzatzpTweppMiksc1cRc9aWq"},
+   {"stakePubkey": "BBUcRXv9xTUPYAKX4Da385k6b94aw8guf8JukCFM64xz"}
+  ]
+}
+{
+ "name": "KniazevaIu",
+ "solWallet": "CeFjuP5jamBSt97SrNptRL6pVZFC7vRmMEfw3EyYA3Wa",
+ "stakes":
+  [
+   {"stakePubkey": "CceMc282smmtEUU9vQc44hv542L4pgqHhj45xu1t8Y58"},
+   {"stakePubkey": "EGQ9PzqGhCj5yWufqqCSZhBPdT7jvSKKczmbzn2kd5aV"}
   ]
 }
