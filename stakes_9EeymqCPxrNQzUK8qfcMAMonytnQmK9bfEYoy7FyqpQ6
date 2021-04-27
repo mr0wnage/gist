@@ -34,7 +34,8 @@
  "solWallet": "EfGgAZANEaRa78ewWDAfyp9oetp1jFzmU6RVTDzyughd",
  "stakes":
   [
-   {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"}
+   {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"},
+   {"stakePubkey": "hemg1pCcRodrFT7FGptwRvCBYZgGijMtmaowFWTjTmZ"}
   ]
 }
 {
