@@ -6,6 +6,7 @@
    {"stakePubkey": "o2U8oiYnAzr3XxALkn6WaRaUmYDHxGfeiAocBcJ8W5x"},
    {"stakePubkey": "7fWBNdSDaC2hz6NqzxQMvqn9DxN7diusvg7f8zmu8o4c"},
    {"stakePubkey": "63hW2nyAng9FujbCK6hashcS1B7rrapFGac9GWxDuGpr"},
+   {"stakePubkey": "8ZDmtHYGdkfNtP183RUa5qSPfkCbapHoeeJnBkTjN8Fs"},
    {"stakePubkey": "DHHna22bUj14fb8c6nX9SbvNysBKM4kEN2x1iyzjZdTK"}
   ]
 }
@@ -15,6 +16,7 @@
  "stakes":
   [
    {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
+   {"stakePubkey": "GeJ28yMRnFTNUbmS9uUKJzKfcCzW7ak3gSR1EKuRwpy"},
    {"stakePubkey": "HVYVJf2rZVrLpWdDG9srYQMDFJxHnxasy583U66g8CET"}
   ]
 }
@@ -24,6 +26,7 @@
  "stakes":
   [
    {"stakePubkey": "68zqA6eXfgtE5mUPVfgRgnEmocwBenzVnquvfYDb86au"},
+   {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn"),
    {"stakePubkey": "9DNWAz6BkBwFeiLE4p3XwrxvCNKenR67MWtYi5s3oyWM"}
   ]
 }
@@ -33,6 +36,14 @@
  "stakes":
   [
    {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"}
+  ]
+}
+{
+ "name": "nastik",
+ "solWallet": "EdCrif8oqZax9aDQjHhA8fW3pnsLAPEdGbPPm6Q793Mi",
+ "stakes":
+  [
+   {"stakePubkey": "ARFLSkm7yvDgCWUQqtc3sKZdvXSnx3XBaURYhVV1mfMs"}
   ]
 }
 {
