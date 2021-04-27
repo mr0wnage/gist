@@ -47,20 +47,60 @@
   ]
 }
 {
- "name": "Legiojuve",
+ "name": "Legio",
  "solWallet": "CfE5w6vRynFqBqujpHqTzrNhiuVCbzvrPbZJBuZdreNL",
  "stakes":
   [
-   {"stakePubkey": "AX7Vu5KjKyjeZFa4y2LFNzatzpTweppMiksc1cRc9aWq"},
-   {"stakePubkey": "BBUcRXv9xTUPYAKX4Da385k6b94aw8guf8JukCFM64xz"}
+   {"stakePubkey": "BBUcRXv9xTUPYAKX4Da385k6b94aw8guf8JukCFM64xz"},
+   {"stakePubkey": "5VxPRnRdZJoF5NiSKEXQcJLbYNjS1G9b4NCZUu7R84Zz"}
   ]
 }
 {
- "name": "KniazevaIu",
+ "name": "IuKni",
  "solWallet": "CeFjuP5jamBSt97SrNptRL6pVZFC7vRmMEfw3EyYA3Wa",
  "stakes":
   [
    {"stakePubkey": "CceMc282smmtEUU9vQc44hv542L4pgqHhj45xu1t8Y58"},
-   {"stakePubkey": "EGQ9PzqGhCj5yWufqqCSZhBPdT7jvSKKczmbzn2kd5aV"}
+   {"stakePubkey": "2aFHvcRYH7TRXUe6RuPWw4QQy4GjhmB9bkC3oDTAFiZ1"}
+  ]
+}
+{
+ "name": "Venera",
+ "solWallet": "CGogKSykG7HzufbAZP7DRFCkTNg4StUcuf7k4RHQZsrp",
+ "stakes":
+  [
+   {"stakePubkey": "CjB8imDP2pPnHwFpCxMGi6qvdt19PMYYv4ifKdMvpTzo"}
+  ]
+}
+{
+ "name": "FilatovDM",
+ "solWallet": "CFzZoxZMXHPQFfX8wS9QChv28PbxGR87sdcR7T3nLzvk",
+ "stakes":
+  [
+   {"stakePubkey": "CcJmkHDG5Esp4XBcxXLxmFgaECUaVbpTmBEfYbENbL8F"}
+  ]
+}
+{
+ "name": "Anatolik",
+ "solWallet": "CefnLTgPb61kxEBqWNScpnQfjnQKDPRQYScKysjSXfy5",
+ "stakes":
+  [
+   {"stakePubkey": "ErPNEPnxeUFvi5V6RWiCt4JroBCV2opZcmVas5M8xnx5"}
+  ]
+}
+{
+ "name": "Lesya",
+ "solWallet": "CjaMqkmBWyxnuZrE8M3t5YDZEQerfhnC6oieBJkERcPT",
+ "stakes":
+  [
+   {"stakePubkey": "G6JHs2DA5UKJtDA8nhgWezdGPpjYH7oBqWUpe1gCdkUB"}
+  ]
+}
+{
+ "name": "NataSim",
+ "solWallet": "BWxsstkgaqH492Qt7P6tH9Zq2ca2nQ2AUVCYHTVWSXHA",
+ "stakes":
+  [
+   {"stakePubkey": "3XG1cEcB8WARiQhiJY8ZsyPsbhUmwGsqpezZszp9AaY8"}
   ]
 }
