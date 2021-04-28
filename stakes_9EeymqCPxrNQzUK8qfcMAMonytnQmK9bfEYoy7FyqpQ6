@@ -104,3 +104,43 @@
    {"stakePubkey": "3XG1cEcB8WARiQhiJY8ZsyPsbhUmwGsqpezZszp9AaY8"}
   ]
 }
+{
+ "name": "v1",
+ "solWallet": "9KBrzFMtVhdH7v7G2ZgBdiJC9wUeWs9gQqpeNmMwJpvV",
+ "stakes":
+  [
+   {"stakePubkey": "Hs7vWtJ4s9hzJMao8aPtHhoYkhjmegK8iuxGiwdy5Qcd"}
+  ]
+}
+{
+ "name": "v2",
+ "solWallet": "HKxRkqo5nNyn8UHz4cUB72z912BiViGNWM814Ctimai6",
+ "stakes":
+  [
+   {"stakePubkey": "8hwnqiE1pL7FyZgZWZXGjQq9JDDYBud3ip18iB1n6UKu"}
+  ]
+}
+{
+ "name": "v3",
+ "solWallet": "EadvAgdy9TDNphNPFnNcSjLGP71A1rJG3JmVz7izdEgF",
+ "stakes":
+  [
+   {"stakePubkey": "7JcVp3SviHPDFvE4FTYyf79tdQgcxjJngcBPNAQ3V9P4"}
+  ]
+}
+{
+ "name": "v4",
+ "solWallet": "6EPqf23FdEseSY2WyYJfnsWTV7t9ukoC1appivyrTSxk",
+ "stakes":
+  [
+   {"stakePubkey": "FF3N14wiSVzn5aWQYbXJ8vF7jAjLBtpHyjQX8RkFyHhR"}
+  ]
+}
+{
+ "name": "v5",
+ "solWallet": "DatYK4WdfXZxy7qKCDc6XsnBAvsD1L6avHay2fWCqcmQ",
+ "stakes":
+  [
+   {"stakePubkey": "HjEVyHdwiNFzJiRyTmK8dMFGPrUKNjBEyakw334ch6o"}
+  ]
+}
