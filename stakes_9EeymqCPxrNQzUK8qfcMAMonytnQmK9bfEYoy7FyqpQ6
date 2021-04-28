@@ -105,7 +105,7 @@
   ]
 }
 {
- "name": "v1",
+ "name": "vasrox",
  "solWallet": "9KBrzFMtVhdH7v7G2ZgBdiJC9wUeWs9gQqpeNmMwJpvV",
  "stakes":
   [
@@ -113,7 +113,7 @@
   ]
 }
 {
- "name": "v2",
+ "name": "ech",
  "solWallet": "HKxRkqo5nNyn8UHz4cUB72z912BiViGNWM814Ctimai6",
  "stakes":
   [
@@ -121,7 +121,7 @@
   ]
 }
 {
- "name": "v3",
+ "name": "ilya",
  "solWallet": "EadvAgdy9TDNphNPFnNcSjLGP71A1rJG3JmVz7izdEgF",
  "stakes":
   [
@@ -129,7 +129,7 @@
   ]
 }
 {
- "name": "v4",
+ "name": "pasha",
  "solWallet": "6EPqf23FdEseSY2WyYJfnsWTV7t9ukoC1appivyrTSxk",
  "stakes":
   [
@@ -137,7 +137,7 @@
   ]
 }
 {
- "name": "v5",
+ "name": "nik4",
  "solWallet": "DatYK4WdfXZxy7qKCDc6XsnBAvsD1L6avHay2fWCqcmQ",
  "stakes":
   [
