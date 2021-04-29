@@ -39,6 +39,22 @@
   ]
 }
 {
+ "name": "Spartak",
+ "solWallet": "ESQHE6QkHRmC55DvqHyXdrjBtGFy7AMj9yUkboURMMWt",
+ "stakes":
+  [
+   {"stakePubkey": "HbD3JnRr2x7iAsUuE18616nhkTkc1igRWnPkT8aDRo1"}
+  ]
+}
+{
+ "name": "Vietcong",
+ "solWallet": "GTjJyts8VsJThSXkDw7JK9sSUb4kSH1Gw6KnUu45DKm2",
+ "stakes":
+  [
+   {"stakePubkey": "BDrySuSWBS2bGptBSSRpTjLXvQiKRP3nK8mPVYeLwj7q"}
+  ]
+}
+{
  "name": "nastik",
  "solWallet": "EdCrif8oqZax9aDQjHhA8fW3pnsLAPEdGbPPm6Q793Mi",
  "stakes":
