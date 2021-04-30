@@ -12,6 +12,7 @@
 {
  "name": "Sarmya",
  "solWallet": "EiPCz9mVLRpWx7VLPbFVRANNxbxYrwzAS7F7yBVeCNnp",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
@@ -21,15 +22,17 @@
 {
  "name": "nikiUL",
  "solWallet": "CJJLGraaPG4Zh386LbDa9m3J4wV6AG8e99QxYaXR77F8",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "68zqA6eXfgtE5mUPVfgRgnEmocwBenzVnquvfYDb86au"},
-   {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn")
+   {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn"}
   ]
 }
 {
  "name": "Munch",
  "solWallet": "EfGgAZANEaRa78ewWDAfyp9oetp1jFzmU6RVTDzyughd",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"},
@@ -39,6 +42,7 @@
 {
  "name": "Spartak",
  "solWallet": "ESQHE6QkHRmC55DvqHyXdrjBtGFy7AMj9yUkboURMMWt",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "HbD3JnRr2x7iAsUuE18616nhkTkc1igRWnPkT8aDRo1"}
@@ -47,6 +51,7 @@
 {
  "name": "Vietcong",
  "solWallet": "GTjJyts8VsJThSXkDw7JK9sSUb4kSH1Gw6KnUu45DKm2",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "BDrySuSWBS2bGptBSSRpTjLXvQiKRP3nK8mPVYeLwj7q"}
@@ -55,6 +60,7 @@
 {
  "name": "nastik",
  "solWallet": "EdCrif8oqZax9aDQjHhA8fW3pnsLAPEdGbPPm6Q793Mi",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "ARFLSkm7yvDgCWUQqtc3sKZdvXSnx3XBaURYhVV1mfMs"}
@@ -63,6 +69,7 @@
 {
  "name": "Legio",
  "solWallet": "CfE5w6vRynFqBqujpHqTzrNhiuVCbzvrPbZJBuZdreNL",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "BBUcRXv9xTUPYAKX4Da385k6b94aw8guf8JukCFM64xz"},
@@ -72,6 +79,7 @@
 {
  "name": "IuKni",
  "solWallet": "CeFjuP5jamBSt97SrNptRL6pVZFC7vRmMEfw3EyYA3Wa",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "CceMc282smmtEUU9vQc44hv542L4pgqHhj45xu1t8Y58"},
@@ -81,6 +89,7 @@
 {
  "name": "Venera",
  "solWallet": "CGogKSykG7HzufbAZP7DRFCkTNg4StUcuf7k4RHQZsrp",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "CjB8imDP2pPnHwFpCxMGi6qvdt19PMYYv4ifKdMvpTzo"}
@@ -89,6 +98,7 @@
 {
  "name": "FilatovDM",
  "solWallet": "CFzZoxZMXHPQFfX8wS9QChv28PbxGR87sdcR7T3nLzvk",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "CcJmkHDG5Esp4XBcxXLxmFgaECUaVbpTmBEfYbENbL8F"}
@@ -97,6 +107,7 @@
 {
  "name": "Anatolik",
  "solWallet": "CefnLTgPb61kxEBqWNScpnQfjnQKDPRQYScKysjSXfy5",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "ErPNEPnxeUFvi5V6RWiCt4JroBCV2opZcmVas5M8xnx5"}
@@ -105,6 +116,7 @@
 {
  "name": "Lesya",
  "solWallet": "CjaMqkmBWyxnuZrE8M3t5YDZEQerfhnC6oieBJkERcPT",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "G6JHs2DA5UKJtDA8nhgWezdGPpjYH7oBqWUpe1gCdkUB"}
@@ -113,6 +125,7 @@
 {
  "name": "NataSim",
  "solWallet": "BWxsstkgaqH492Qt7P6tH9Zq2ca2nQ2AUVCYHTVWSXHA",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "3XG1cEcB8WARiQhiJY8ZsyPsbhUmwGsqpezZszp9AaY8"}
@@ -121,6 +134,7 @@
 {
  "name": "vasrox",
  "solWallet": "9KBrzFMtVhdH7v7G2ZgBdiJC9wUeWs9gQqpeNmMwJpvV",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "Hs7vWtJ4s9hzJMao8aPtHhoYkhjmegK8iuxGiwdy5Qcd"}
@@ -129,6 +143,7 @@
 {
  "name": "ech",
  "solWallet": "HKxRkqo5nNyn8UHz4cUB72z912BiViGNWM814Ctimai6",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "8hwnqiE1pL7FyZgZWZXGjQq9JDDYBud3ip18iB1n6UKu"}
@@ -137,6 +152,7 @@
 {
  "name": "ilya",
  "solWallet": "EadvAgdy9TDNphNPFnNcSjLGP71A1rJG3JmVz7izdEgF",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "7JcVp3SviHPDFvE4FTYyf79tdQgcxjJngcBPNAQ3V9P4"}
@@ -145,6 +161,7 @@
 {
  "name": "pasha",
  "solWallet": "6EPqf23FdEseSY2WyYJfnsWTV7t9ukoC1appivyrTSxk",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "FF3N14wiSVzn5aWQYbXJ8vF7jAjLBtpHyjQX8RkFyHhR"}
@@ -153,6 +170,7 @@
 {
  "name": "nik4",
  "solWallet": "DatYK4WdfXZxy7qKCDc6XsnBAvsD1L6avHay2fWCqcmQ",
+ "fee": "0.5",
  "stakes":
   [
    {"stakePubkey": "HjEVyHdwiNFzJiRyTmK8dMFGPrUKNjBEyakw334ch6o"}
