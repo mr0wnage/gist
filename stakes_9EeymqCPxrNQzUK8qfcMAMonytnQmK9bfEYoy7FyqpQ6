@@ -188,3 +188,12 @@
    {"stakePubkey": "4kT1H7QiQUY7wt8QtvQc5QSWCPwX5QHNpDWYjfR1af8a"}
   ]
 }
+{
+ "name": "Zepp",
+ "solWallet": "CvCjPX9ktTwTgGxVt7qaWhDuppgXUZtiHX5kSMAZjFJC",
+ "fee": "0.5",
+ "stakes":
+  [
+   {"stakePubkey": "2o3Bkh2FEjt8adpoTn3Miq73yZWVDfpMm1gVAja51gS6"}
+  ]
+}
