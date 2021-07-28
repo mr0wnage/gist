@@ -3,7 +3,6 @@
  "solWallet": "EFVf49M5FPdUpHp9EA6QgTwZwKDTsJyWUKKES2gV984Q",
  "stakes":
   [
-   {"stakePubkey": "o2U8oiYnAzr3XxALkn6WaRaUmYDHxGfeiAocBcJ8W5x"},
    {"stakePubkey": "8ZDmtHYGdkfNtP183RUa5qSPfkCbapHoeeJnBkTjN8Fs"},
    {"stakePubkey": "Ge32rDXWKmUhMT1v2Qij1npGeBg9JkUZH1uC68j4fA1b"},
    {"stakePubkey": "DHHna22bUj14fb8c6nX9SbvNysBKM4kEN2x1iyzjZdTK"}
@@ -15,7 +14,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "AyCJ7oG44CDLAJ6NDL7upzhZxAerRu6T4mscxepCEaHX"},
    {"stakePubkey": "GeJ28yMRnFTNUbmS9uUKJzKfcCzW7ak3gSR1EKuRwpy"}
   ]
 }
@@ -25,7 +23,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "68zqA6eXfgtE5mUPVfgRgnEmocwBenzVnquvfYDb86au"},
    {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn"}
   ]
 }
@@ -35,7 +32,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "DjucSz2ohSds7KL2b93c4kzvnruhdvXGdZRy1cXojiuw"},
    {"stakePubkey": "hemg1pCcRodrFT7FGptwRvCBYZgGijMtmaowFWTjTmZ"}
   ]
 }
@@ -72,7 +68,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "BBUcRXv9xTUPYAKX4Da385k6b94aw8guf8JukCFM64xz"},
    {"stakePubkey": "5VxPRnRdZJoF5NiSKEXQcJLbYNjS1G9b4NCZUu7R84Zz"}
   ]
 }
@@ -82,7 +77,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "CceMc282smmtEUU9vQc44hv542L4pgqHhj45xu1t8Y58"},
    {"stakePubkey": "2aFHvcRYH7TRXUe6RuPWw4QQy4GjhmB9bkC3oDTAFiZ1"}
   ]
 }
@@ -183,14 +177,5 @@
  "stakes":
   [
    {"stakePubkey": "4kT1H7QiQUY7wt8QtvQc5QSWCPwX5QHNpDWYjfR1af8a"}
-  ]
-}
-{
- "name": "Zepp",
- "solWallet": "CvCjPX9ktTwTgGxVt7qaWhDuppgXUZtiHX5kSMAZjFJC",
- "fee": "0.5",
- "stakes":
-  [
-   {"stakePubkey": "2o3Bkh2FEjt8adpoTn3Miq73yZWVDfpMm1gVAja51gS6"}
   ]
 }
