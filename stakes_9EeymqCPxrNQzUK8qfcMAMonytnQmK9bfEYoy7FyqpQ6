@@ -41,16 +41,9 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "hemg1pCcRodrFT7FGptwRvCBYZgGijMtmaowFWTjTmZ"}
-  ]
-}
-{
- "name": "Spartak",
- "solWallet": "ESQHE6QkHRmC55DvqHyXdrjBtGFy7AMj9yUkboURMMWt",
- "fee": "0.5",
- "stakes":
-  [
-   {"stakePubkey": "HbD3JnRr2x7iAsUuE18616nhkTkc1igRWnPkT8aDRo1"}
+   {"stakePubkey": "hemg1pCcRodrFT7FGptwRvCBYZgGijMtmaowFWTjTmZ"},
+   {"stakePubkey": "HbD3JnRr2x7iAsUuE18616nhkTkc1igRWnPkT8aDRo1"},
+   {"stakePubkey": "AH2q6bTJGSSd5QRuACnjzuFwzpKXh2jcif5QX6oa4j9c}
   ]
 }
 {
@@ -60,6 +53,24 @@
  "stakes":
   [
    {"stakePubkey": "BDrySuSWBS2bGptBSSRpTjLXvQiKRP3nK8mPVYeLwj7q"}
+  ]
+}
+{
+ "name": "Masha",
+ "solWallet": "6KKLa99u9WuZWUowdryqbRGRoSz8n6UXxqwoecRkZy78",
+ "fee": "0.5",
+ "stakes":
+  [
+   {"stakePubkey": "7fxwJ1DDTCM2PPb8aoeQGeYaHhS68acFAHX5JRH8o2zv"}
+  ]
+}
+{
+ "name": "Sega",
+ "solWallet": "5x93AUxHegXoDqgLaqCsotx7KYWbf4Y5QPS93QnWBTZs",
+ "fee": "0.5",
+ "stakes":
+  [
+   {"stakePubkey": "nyGudvBEJxdJPkGK76L8KDgQrghUhPNBxrrx8kHcmSC"}
   ]
 }
 {
