@@ -73,29 +73,29 @@ if ! $check_rewards; then
                 exit 1
         fi
 
-        outResult=$(curl -s https://gist.githubusercontent.com/legiojuve/0633c9e531a3c358025497130c9b55d1/raw/binanceGetAssetDetail.sh | bash -s SOL 2>/dev/null)
-        if (($? == 0)) && [[ $outResult ]]; then
-                isError=$(echo $outResult | jq -r '.error')
-                if $isError; then
-                        log "ERROR! $(echo $outResult | jq -r '.result')"
-                        log_end
-                        exit 1
-                else
-                        depositStatus=$(echo $outResult | jq -r '.result.depositStatus')
-                        if $depositStatus; then
-                                log "SOL deposit status is TRUE on Binance"
-                                log_empty
-                        else
-                                log "STOP! SOL deposit status is FALSE on Binance"
-                                log_end
-                                exit 1
-                        fi
-                fi
-        else
-                log "ERROR! Cannot get accet (SOL) detail from Binance"
-                log_end
-                exit 1
-        fi
+#        outResult=$(curl -s https://gist.githubusercontent.com/legiojuve/0633c9e531a3c358025497130c9b55d1/raw/binanceGetAssetDetail.sh | bash -s SOL 2>/dev/null)
+#        if (($? == 0)) && [[ $outResult ]]; then
+#                isError=$(echo $outResult | jq -r '.error')
+#                if $isError; then
+#                        log "ERROR! $(echo $outResult | jq -r '.result')"
+#                        log_end
+#                        exit 1
+#                else
+#                        depositStatus=$(echo $outResult | jq -r '.result.depositStatus')
+#                        if $depositStatus; then
+#                                log "SOL deposit status is TRUE on Binance"
+#                                log_empty
+#                        else
+#                                log "STOP! SOL deposit status is FALSE on Binance"
+#                                log_end
+#                                exit 1
+#                        fi
+#                fi
+#        else
+#                log "ERROR! Cannot get accet (SOL) detail from Binance"
+#                log_end
+#                exit 1
+#        fi
 fi
 
 #STAKES=$($BIN_FILE stakes $vote_account --url=$URL --output json 2>/dev/null)
