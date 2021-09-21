@@ -4,8 +4,7 @@
  "stakes":
   [
    {"stakePubkey": "8ZDmtHYGdkfNtP183RUa5qSPfkCbapHoeeJnBkTjN8Fs"},
-   {"stakePubkey": "GgxiTm54sh3rfJPU3tfyzRMrQvZRvDY795GKwafnXjyk"},
-   {"stakePubkey": "DHHna22bUj14fb8c6nX9SbvNysBKM4kEN2x1iyzjZdTK"}
+   {"stakePubkey": "GgxiTm54sh3rfJPU3tfyzRMrQvZRvDY795GKwafnXjyk"}
   ]
 }
 {
@@ -15,8 +14,7 @@
  "stakes":
   [
    {"stakePubkey": "GeJ28yMRnFTNUbmS9uUKJzKfcCzW7ak3gSR1EKuRwpy"},
-   {"stakePubkey": "9Kn4jpvu2MfVeoe2beLVV2ZnWCc5GKUpF1HFhCzsFt4s"},
-   {"stakePubkey": "69T6o7W7qdYsmuAuLDGfprLSQhY2z5wPABfn3XRLu7Xu"}
+   {"stakePubkey": "9Kn4jpvu2MfVeoe2beLVV2ZnWCc5GKUpF1HFhCzsFt4s"}
   ]
 }
 {
@@ -26,10 +24,7 @@
  "stakes":
   [
    {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn"},
-   {"stakePubkey": "4itmkJN7sxwaBzouHaMnxi3NV7B81TSQmi6Mk1QqFrgu"},
-   {"stakePubkey": "DVUzDkGXChgo5tcMjd1TL32sBverP2c3JkvgFtaAzzzX"},
-   {"stakePubkey": "7Wt81HU44kGti7hgfg7NpwPEPLjTuLsiSbEdQh4cT142"},
-   {"stakePubkey": "CtZkttwACs5JUKDueNY1VhSeDbUCg3EEqX2BJShsV1PG"}
+   {"stakePubkey": "4itmkJN7sxwaBzouHaMnxi3NV7B81TSQmi6Mk1QqFrgu"}
   ]
 }
 {
