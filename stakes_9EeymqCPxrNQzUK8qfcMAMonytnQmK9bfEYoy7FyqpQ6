@@ -190,12 +190,3 @@
    {"stakePubkey": "HjEVyHdwiNFzJiRyTmK8dMFGPrUKNjBEyakw334ch6o"}
   ]
 }
-#{
-# "name": "Sap",
-# "solWallet": "CvSbnEpk3Djd2TffEQLnQDTJAH2CGf8GfvxpMHNZB1X2",
-# "fee": "0.5",
-# "stakes":
-#  [
-#   {"stakePubkey": "4kT1H7QiQUY7wt8QtvQc5QSWCPwX5QHNpDWYjfR1af8a"}
-#  ]
-#}
