@@ -33,7 +33,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "hemg1pCcRodrFT7FGptwRvCBYZgGijMtmaowFWTjTmZ"},
    {"stakePubkey": "HbD3JnRr2x7iAsUuE18616nhkTkc1igRWnPkT8aDRo1"},
    {"stakePubkey": "AH2q6bTJGSSd5QRuACnjzuFwzpKXh2jcif5QX6oa4j9c"}
   ]
@@ -81,7 +80,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "5VxPRnRdZJoF5NiSKEXQcJLbYNjS1G9b4NCZUu7R84Zz"},
    {"stakePubkey": "3JrjweCaoziG2QgBZx2B5R7jYNRCDrm4WfywaCw6cMiJ"}
   ]
 }
@@ -91,7 +89,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "2aFHvcRYH7TRXUe6RuPWw4QQy4GjhmB9bkC3oDTAFiZ1"},
    {"stakePubkey": "BUxRYFqJQNf5Y38f9zpcxeS4J1w9c2wJPf93rHqtAo1i"}
   ]
 }
@@ -101,7 +98,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "CjB8imDP2pPnHwFpCxMGi6qvdt19PMYYv4ifKdMvpTzo"},
    {"stakePubkey": "7Y62xTLXij5BypgeTDTptFcWaUjxFAZaVcZsst2tbYtX"}
   ]
 }
@@ -111,7 +107,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "CcJmkHDG5Esp4XBcxXLxmFgaECUaVbpTmBEfYbENbL8F"},
    {"stakePubkey": "4Mi65ArB2RwqcbGeorj1jewK1nSdvhiQjHer4FqKLBW3"}
   ]
 }
@@ -121,7 +116,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "ErPNEPnxeUFvi5V6RWiCt4JroBCV2opZcmVas5M8xnx5"},
    {"stakePubkey": "3S5q94brmAHbBpyR5bYJEATHH1btDbxCFQoyVLfrFNhP"}
   ]
 }
@@ -131,7 +125,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "G6JHs2DA5UKJtDA8nhgWezdGPpjYH7oBqWUpe1gCdkUB"},
    {"stakePubkey": "5cqz98vFvX5NCFVJzVvgiVeXQFykzpXw8A6j2sbpAFBe"}
   ]
 }
@@ -141,7 +134,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "3XG1cEcB8WARiQhiJY8ZsyPsbhUmwGsqpezZszp9AaY8"},
    {"stakePubkey": "zHpdTvUYJJLJ9Txm9WkrYc1ocFnnEQwNvAzSBrVeJxJ"}
   ]
 }
