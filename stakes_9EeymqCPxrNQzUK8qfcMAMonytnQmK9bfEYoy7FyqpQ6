@@ -3,7 +3,7 @@
  "solWallet": "EFVf49M5FPdUpHp9EA6QgTwZwKDTsJyWUKKES2gV984Q",
  "stakes":
   [
-   {"stakePubkey": "8ZDmtHYGdkfNtP183RUa5qSPfkCbapHoeeJnBkTjN8Fs"},
+   {"stakePubkey": "Fs7qVwpge3m4i7xDxnZFT44Q29pPnyYVPfraLDE16BSZ"},
    {"stakePubkey": "DatCBvyuMHEwmRXBVUekx5KK9pyvTvb2JFuiWtTXCMp"},
    {"stakePubkey": "GgxiTm54sh3rfJPU3tfyzRMrQvZRvDY795GKwafnXjyk"}
   ]
@@ -14,7 +14,7 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "GeJ28yMRnFTNUbmS9uUKJzKfcCzW7ak3gSR1EKuRwpy"},
+   {"stakePubkey": "HnEBf2e8cX7UEb3LKh7hPtvYdbntUA68EigKKYFf5vVL"},
    {"stakePubkey": "9Kn4jpvu2MfVeoe2beLVV2ZnWCc5GKUpF1HFhCzsFt4s"}
   ]
 }
@@ -24,7 +24,7 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "GjjJWkQoha578daLdNFpW3fqLxnWCnMGjLrthozoPwCn"},
+   {"stakePubkey": "CSHasP4iakQ8BuUgYLBa3jkF1w2HqY9rYXjfg5fLWDEy"},
    {"stakePubkey": "4itmkJN7sxwaBzouHaMnxi3NV7B81TSQmi6Mk1QqFrgu"}
   ]
 }
