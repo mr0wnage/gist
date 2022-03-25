@@ -24,7 +24,6 @@
  "fee": "0.5",
  "stakes":
   [
-   {"stakePubkey": "CSHasP4iakQ8BuUgYLBa3jkF1w2HqY9rYXjfg5fLWDEy"},
    {"stakePubkey": "4itmkJN7sxwaBzouHaMnxi3NV7B81TSQmi6Mk1QqFrgu"}
   ]
 }
